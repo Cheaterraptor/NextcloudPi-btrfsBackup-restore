@@ -14,7 +14,7 @@ Name of hard drives (mounted to /media):
 - NextcloudHDD1 (The data directory and database directory) 
 - NextcloudHDDBackUp (Backup for the btrfs snapshots, and ncp config)
 
-![Alt text](img\system-info.png "Title")
+![Alt text](img/system-info.png "Title")
 
 
 This configuration assumes that the nextcloudpi installation is broken and the first hard drive NextcloudHDD1 is still working.
